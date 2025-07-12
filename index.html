@@ -10,6 +10,8 @@
       integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7"
       crossorigin="anonymous"
     />
+    <link rel="icon" href="data:," />
+    <!--Last link line prevents favicon request. Source: https://stackoverflow.com/questions/1321878/how-to-prevent-favicon-ico-requests-->
   </head>
   <body>
     <div class="container">
@@ -144,17 +146,18 @@
         </button>
       </div>
       <h3>Terrain impact</h3>
-      <img
-        src="images/terrainImpact.avif"
-        class="img-fluid"
-        alt="Satellite view of all phosphogypsum stack areas located in Huelva."
-        loading="lazy"
-      />
-      <p>
-        Phosphogypsum terrain in Huelva is divided into five different zones
-        (each one drawn with a different color).
-      </p>
-      <table class="table">
+      <figure>
+        <img
+          src="images/terrainImpact.avif"
+          class="img-fluid"
+          alt="Satellite view of all phosphogypsum stack areas located in Huelva."
+          loading="lazy"
+        />
+        <figcaption>
+          Phosphogypsum terrain in Huelva is divided into five different zones.
+        </figcaption>
+      </figure>
+      <table class="table table-light">
         <caption>
           Area occupied by phosphogypsum.
         </caption>
@@ -166,37 +169,45 @@
         </thead>
         <tbody>
           <tr>
-            <th scope="row">Zone 1</th>
+            <th scope="row">
+              <span class="text-success">Zone 1</span>
+            </th>
             <td>400</td>
           </tr>
           <tr>
-            <th scope="row">Zone 2 and Zone 3</th>
+            <th scope="row">
+              <span class="text-warning">Zone 2</span> +
+              <span class="text-danger">Zone 3</span>
+            </th>
             <td>441</td>
           </tr>
           <tr>
-            <th scope="row">Zone 4</th>
+            <th scope="row">
+              <span class="text-success-emphasis">Zone 4</span>
+            </th>
             <td>125</td>
           </tr>
           <tr>
-            <th scope="row">Zone 5</th>
+            <th scope="row">
+              <span class="text-danger-emphasis">Zone 5</span>
+            </th>
             <td>154</td>
           </tr>
         </tbody>
       </table>
       <p>
-        Summing all areas, the total terrain occupied by phosphogypsum stacks
-        covers 1120 ha = 2767.58 ac = 11200000 m<sup>2</sup> = 11.2
-        km<sup>2</sup>.
+        Summing all areas, the
+        <strong>total terrain occupied by phosphogypsum stacks</strong> covers
+        1120 ha = 2767.58 ac = 11200000 m<sup>2</sup> = 11.2 km<sup>2</sup>.
       </p>
       <p>
-        As the Camp Nou stadium covers 58760 m<sup>2</sup>, the total terrain
-        occupied by phosphogypsum stacks covers approximately 190 FC Barcelona
-        home ones.
+        As the Camp Nou stadium covers 58760 m<sup>2</sup>, this terrain covers
+        approximately 190 FC Barcelona home ones.
       </p>
       <p>
-        Knowing that all Huelva city (including non-urban areas) covers 151.33
-        km<sup>2</sup>, the total terrain occupied by phosphogypsum stacks
-        accounts for 7.40% of the city's surface.
+        Also, knowing that all of Huelva city (including non-urban areas) covers
+        151.33 km<sup>2</sup>, this terrain accounts for 7.40% of the city's
+        surface.
       </p>
       <h3>How is phosphogypsum produced?</h3>
       <p class="lead">
@@ -302,7 +313,7 @@
             <a href="https://dialnet.unirioja.es/servlet/tesis?codigo=288085"
               >Evaluation of the impact produced by the Huelva phosphogypsum
               stacks on their estuarine environment</a
-            >: Chapter 1: Introduction: Page 4.
+            >: Chapter 1 (Introduction): Page 4.
           </li>
         </ol>
       </ul>
