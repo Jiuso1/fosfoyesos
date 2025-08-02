@@ -16,11 +16,10 @@ José María González Abad ([pepec0de](https://github.com/pepec0de)) and Diego 
 
 fosfoyesos.info is also possible thanks to José Enrique Martín Domínguez and Juan Pedro Bolívar Raya. They have taught us many ideas, and we're delighted to bring them to people.
 
-## To do
+## To do now
 
-- Complete all topics.
-- Multilingüal support.
-- Spread the word.
+1. Complete "Can phosphogypsum be recycled and valorized?" section.
+2. Contact Prayon.
 
 ## Contact
 
