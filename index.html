@@ -75,12 +75,16 @@
             </div>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img
-                  src="images/city.avif"
-                  class="d-block w-100"
-                  alt="Sky view of the phosphogypsum area in Huelva city."
-                  loading="lazy"
-                />
+                <picture>
+                  <source srcset="images/city.avif" type="image/avif" />
+                  <source srcset="images/city.jpeg" type="image/jpeg" />
+                  <img
+                    src="images/city.jpeg"
+                    class="d-block w-100"
+                    alt="Sky view of the phosphogypsum area in Huelva city."
+                    loading="lazy"
+                  />
+                </picture>
                 <div class="carousel-caption d-none d-md-block">
                   <h4>Sky view of the phosphogypsum area in Huelva city</h4>
                   <p>
@@ -400,7 +404,7 @@
             <a href="https://www.prayon.com/">Prayon</a> is a phosphate-based
             products company headquartered in Engis, Belgium. Since its
             foundation, Prayon has always applied
-            <strong>circular economy</strong> principles to their phosphogypsum
+            <strong>circular economy</strong> principles to its phosphogypsum
             production.
           </p>
         </div>
