@@ -16,13 +16,13 @@ José María González Abad ([pepec0de](https://github.com/pepec0de)) and Diego 
 
 fosfoyesos.info is also possible thanks to José Enrique Martín Domínguez and Juan Pedro Bolívar Raya. They have taught us many ideas, and we're delighted to bring them to people.
 
-## To do now
+## TO-DO (now)
 
-1. Complete "Can phosphogypsum be recycled and valorized?" section.
-2. Contact Prayon.
-3. Add a Spanish version.
+- Complete "Can phosphogypsum be recycled and valorized?" section.
+- Add a Spanish version.
 
 ## TO-DO (in the near future)
-* Contact Florida Industrial and Phosphate Research Institute (fipr.floridapoly.edu).
+
+- Contact Florida Industrial and Phosphate Research Institute (fipr.floridapoly.edu).
 
 You can contact us by visiting the last section of our [website](https://tintobit.biz/).
