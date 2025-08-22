@@ -26,4 +26,4 @@ fosfoyesos.info is also possible thanks to José Enrique Martín Domínguez and 
 - Contact Florida Industrial and Phosphate Research Institute (fipr.floridapoly.edu).
 - Make a phosphogypsum specialized LLM.
 
-You can contact us by visiting the last section of our [website](https://tintobit.biz/).
+You can contact us by visiting the contact section of our [website](https://tintobit.biz/#address).
