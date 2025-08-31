@@ -18,12 +18,12 @@ fosfoyesos.info is also possible thanks to José Enrique Martín Domínguez and 
 
 ## TO-DO (now)
 
-- Complete "Can phosphogypsum be recycled and valorized?" section.
-- Add a Spanish version.
+- Write about phosphogypsum heavy metals.
 
 ## TO-DO (in the near future)
 
-- Contact Florida Industrial and Phosphate Research Institute (fipr.floridapoly.edu).
+- Add a static spanish version.
+- Contact [Florida Industrial and Phosphate Research Institute](https://fipr.floridapoly.edu/).
 - Make a phosphogypsum specialized LLM.
 
-You can contact us by visiting the contact section of our [website](https://tintobit.biz/#address).
+You can contact us by visiting the contact section of our [website](https://tintobit.biz/authors.html).
