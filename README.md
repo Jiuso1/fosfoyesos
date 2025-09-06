@@ -1,10 +1,6 @@
-# fosfoyesos.info
+# [fosfoyesos.info](https://fosfoyesos.info)
 
 ![Phosphoric acid molecule](images/phosphoricAcidMolecule.ico)
-
-## Website
-
-You can visit the project [here](https://fosfoyesos.info). This domain is temporary, we'll acquire fosfoyesos.info soon!
 
 ## Project purpose
 
