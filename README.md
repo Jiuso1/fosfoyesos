@@ -4,7 +4,7 @@
 
 ## Website
 
-You can visit the project [here](https://tintobit.biz/). This domain is temporary, we'll acquire fosfoyesos.info soon!
+You can visit the project [here](https://fosfoyesos.info). This domain is temporary, we'll acquire fosfoyesos.info soon!
 
 ## Project purpose
 
@@ -26,4 +26,4 @@ fosfoyesos.info is also possible thanks to José Enrique Martín Domínguez and 
 - Contact [Florida Industrial and Phosphate Research Institute](https://fipr.floridapoly.edu/).
 - Make a phosphogypsum specialized LLM.
 
-You can contact us by visiting the contact section of our [website](https://tintobit.biz/authors.html).
+You can contact us by visiting the contact section of our [website](https://fosfoyesos.info/authors.html).
