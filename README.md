@@ -22,4 +22,4 @@ José María González Abad ([pepec0de](https://github.com/pepec0de)) and Diego 
 - Contact [Florida Industrial and Phosphate Research Institute](https://fipr.floridapoly.edu/).
 - Make a phosphogypsum specialized LLM.
 
-You can contact us by visiting the contact section of our [website](https://fosfoyesos.info/authors.html).
+You can contact us by visiting the Authors page of our [website](https://fosfoyesos.info/authors.html).
