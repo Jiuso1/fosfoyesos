@@ -14,12 +14,14 @@ José María González Abad ([pepec0de](https://github.com/pepec0de)) and Diego 
 
 ## TO-DO (now)
 
-- Write about phosphogypsum heavy metals.
+- Add index.
+- Correct phosphogypsum areas.
+- Use Google Maps to draw and measure the city. Add the number of inhabitants.
+- Add general applications before specific business applications.
 
 ## TO-DO (in the near future)
 
 - Add a static spanish version.
 - Contact [Florida Industrial and Phosphate Research Institute](https://fipr.floridapoly.edu/).
-- Make a phosphogypsum specialized LLM.
 
 You can contact us by visiting the Authors page of our [website](https://fosfoyesos.info/authors.html).
