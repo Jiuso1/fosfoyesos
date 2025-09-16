@@ -14,7 +14,6 @@ José María González Abad ([pepec0de](https://github.com/pepec0de)) and Diego 
 
 ## TO-DO (now)
 
-- Add index.
 - Correct phosphogypsum areas.
 - Use Google Maps to draw and measure the city. Add the number of inhabitants.
 - Add general applications before specific business applications.
