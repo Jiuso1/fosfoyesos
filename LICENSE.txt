@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) [2025] [Manuel Camacho Campos, José María González Abad, Diego Cerezo Rojas, Jesús García Gutiérrez, José Enrique Martín Domínguez, Juan Pedro Bolívar Raya, University of Huelva]
+Copyright (c) [2025] [Manuel Camacho Campos, José María González Abad, Jesús García Gutiérrez, José Enrique Martín Domínguez, Juan Pedro Bolívar Raya, University of Huelva]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
