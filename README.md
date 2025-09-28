@@ -14,13 +14,11 @@ José María González Abad ([pepec0de](https://github.com/pepec0de)) believed a
 
 ## TO-DO (now)
 
-- Correct phosphogypsum areas.
-- Use Google Maps to draw and measure the city. Add the number of inhabitants.
+- Contact [Florida Industrial and Phosphate Research Institute](https://fipr.floridapoly.edu/).
 - Add general applications before specific business applications.
 
 ## TO-DO (in the near future)
 
 - Add a static spanish version.
-- Contact [Florida Industrial and Phosphate Research Institute](https://fipr.floridapoly.edu/).
 
 You can contact us by visiting the Authors page of our [website](https://fosfoyesos.info/authors.html).
