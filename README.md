@@ -21,4 +21,4 @@ José María González Abad ([pepec0de](https://github.com/pepec0de)) believed a
 
 - Add a static spanish version.
 
-You can contact us by visiting the Authors page of our [website](https://fosfoyesos.info/authors.html).
+You can contact us by visiting the [Contact page](https://fosfoyesos.info/contact.html).
