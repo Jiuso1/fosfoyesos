@@ -15,7 +15,7 @@ José María González Abad ([pepec0de](https://github.com/pepec0de)) believed a
 ## TO-DO (now)
 
 - Contact [Florida Industrial and Phosphate Research Institute](https://fipr.floridapoly.edu/).
-- Add general applications before specific business applications.
+- [pepec0de](https://github.com/pepec0de)'s idea: add phosphogypsum maps.
 
 ## TO-DO (in the near future)
 
