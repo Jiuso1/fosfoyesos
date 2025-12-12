@@ -72,11 +72,11 @@ Nuestra conclusión siempre ha seguido la misma directriz, y es que hay que evit
 Speech by Rafael Pérez López refined and translated using https://www.deepl.com/
 
 The water inside behaves like an aquifer, meaning there is a flow that reaches the marsh bed. 
-Since the marsh is impermeable, when this flow reaches the marsh, it can no longer penetrate and begins to move sideways until it exits through the edges of the pond.
-These edge outlets are what carry the pollution from inside the pond to the estuary.
+Since the marsh is impermeable, when this flow reaches the marsh, it can no longer penetrate and begins to move sideways until it exits through the edges of the stack.
+These edge outlets are what carry the pollution from inside the stack to the estuary.
 
 When the tide rises, the water from the estuary floods these secondary tidal channels. When the tide goes out, that water is discharged back into the estuary. 
-What we see is that all these leaks, all these edge outlets that we recognize around the perimeter of the pond, are precisely water that enters through these 
+What we see is that all these leaks, all these edge outlets that we recognize around the perimeter of the stack, are precisely water that enters through these 
 secondary tidal channels, becomes contaminated, and then returns.
 
-Our conclusion has always followed the same guideline: we must prevent water, the tide, from entering the reservoir.
+Our conclusion has always followed the same guideline: we must prevent water, the tide, from entering the stack.
